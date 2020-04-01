@@ -37,14 +37,6 @@
           "source": "Windows.Terminal.Azure",
           "useAcrylic": true,
           "acrylicOpacity": 0.5
-        },
-        {
-          "guid": "{86f5e77a-b92c-418c-918a-bd4c4f2176a1}",
-          "hidden": false,
-          "name": "Bash",
-          "commandline": "C:\\Program Files\\Git\\git-bash.exe",
-          "useAcrylic": true,
-          "acrylicOpacity": 0.5
         }
       ]
     },
